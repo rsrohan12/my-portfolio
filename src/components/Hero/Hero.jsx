@@ -1,5 +1,4 @@
 import React from "react";
-
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
@@ -16,7 +15,7 @@ export const Hero = () => {
           <a href="mailto:rsrohan787@gmail.com" className={styles.contactBtn}>
             Contact Me
           </a>
-          <a href="pdf/CV1.pdf" download className={styles.downloadBtn}>
+          <a href={getImageUrl("pdf/CV1.pdf")} download className={styles.downloadBtn}>
             Download CV
           </a>
         </div>

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Real-Time Chat App",
+    "imageSrc": "projects/chat.jpg",
+    "description": "The real-time chat app, built using the MERN stack and Socket.io, offers features like secure authentication (JWT) and real-time messaging.",
+    "skills": ["React", "Express", "Node", "Socket.io"],
+    "demo": "https://chat-app-8vql.onrender.com",
+    "source": "https://github.com/rsrohan12/mern-chat-app"
+  },
+  {
+    "title": "Word to Pdf convertor",
+    "imageSrc": "projects/convert.png",
+    "description": "The Word to Pdf converter web app allows users to upload Word files and convert them into editable Pdf documents. It is designed with a user-friendly interface.",
+    "skills": ["React", "Express", "Node", "Multer"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/rsrohan12/Word-To-Pdf-Convertor"
+  },
+  {
+    "title": "Vacational Rental Marketplace",
+    "imageSrc": "projects/home.jpg",
+    "description": "It is an Airbnb clone that allows users to list, explore, and book vacation properties with features like authentication, property filtering, and booking management.",
+    "skills": ["Nextjs", "Supabase"],
+    "demo": "https://airbnb-mu-seven.vercel.app/",
+    "source": "https://github.com/rsrohan12/Airbnb-clone"
+  }
+]
